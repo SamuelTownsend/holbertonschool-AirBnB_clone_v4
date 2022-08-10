@@ -160,5 +160,10 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+2022 - Web Dynamic Updates Authored by:
+Jessica Loyd - [Github](https://github.com/iamjessicaelaine) / [Email](mailto:4239@holbertonstudents.com)
+Sam Townsend - [Github](https://github.com/SamuelTownsend) / [Email](mailto:4238@holbertontudents.com)
+
 ## License
 Public Domain. No copy write protection. 
